@@ -54,7 +54,7 @@ public class Sudoku {
 
     // Função auxiliar para imprimir separador do Sudoku atual
     private static void imprimirSeparadorSudoku(int grau) {
-        String linha = "-".repeat(40);  // Separador
+        String linha = "-".repeat(44);  // Separador
         System.out.println(String.format("\n%s\nSudoku %dX%d\n%s", linha, grau, grau, linha));
     }
 
