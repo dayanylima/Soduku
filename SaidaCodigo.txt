@@ -140,7 +140,7 @@ Sudoku 9X9
 |  Tempo medio: 27,2278 segundos
 |  Percentagem de solucoes validas: 42,00%
 **********  Algoritmo BFS  **********
-|  Tempo medio: NaN segundos
+|  Tempo medio: 0 segundos
 |  Percentagem de solucoes validas: 0,00%
 **********  Algoritmo DFS  **********
 |  Tempo medio: 17,8080 segundos
